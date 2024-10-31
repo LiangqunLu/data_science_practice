@@ -114,21 +114,10 @@ Each project includes:
 | | [Web Traffic Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting) | Time Series | Long-term patterns, Multiple series | Predict website traffic |
 | | [VinBigData X-ray](https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection) | Multi-Modal | Medical imaging, Object detection | Detect chest abnormalities |
 
-Project Selection Guidelines:
-- Start with beginner projects to build fundamentals
-- Choose based on your domain interest
-- Consider hardware requirements
-- Look for active competitions for community support
-- Balance between structured learning and exploration
+
 
 ## Resources
-- Books
-  - A Collection of Data Science Take-Home Challenges
-  - [Add more books]
-- Online Courses
-  - [Add courses]
-- Useful Links
-  - [Add links]
+
 
 
 
