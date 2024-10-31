@@ -48,46 +48,29 @@
 ## Practice Projects
 
 ### A Collection of Data Science Take-Home Challenges
-Practice projects focusing on real-world data science scenarios:
 
-#### Business Analytics & A/B Testing
-- Conversion Rate Analysis
-- Spanish Translation A/B Test
-- Pricing Test
-- Marketing Email Campaign
-- Engagement Test
-
-#### User Behavior & Retention
-- Employee Retention
-- Funnel Analysis
-- User Referral Program
-- Subscription Retention Rate
-- On-Line Video Challenge
-
-#### Fraud & Risk
-- Identifying Fraudulent Activities
-- Credit Card Transactions
-- Loan Granting
-
-#### Recommendation Systems
-- Song Challenge
-- Clustering Grocery Items
-
-#### Data Processing & Optimization
-- JSON City Similarities
-- URL Parsing Challenge
-- Optimization of Employee Shuttle Stops
-
-#### Business Impact
-- Diversity in the Workplace
-- Ads Analysis
-
-Each project includes:
-- Problem Statement
-- Data Analysis Approach
-- Key Findings
-- Technical Implementation
-- Business Recommendations
+| Category | Challenge |
+|----------|-----------|
+| **Business Analytics & A/B Testing** | Conversion Rate Analysis |
+| | Spanish Translation A/B Test |
+| | Pricing Test |
+| | Marketing Email Campaign |
+| | Engagement Test |
+| **User Behavior & Retention** | Employee Retention |
+| | Funnel Analysis |
+| | User Referral Program |
+| | Subscription Retention Rate |
+| | On-Line Video Challenge |
+| **Fraud & Risk** | Identifying Fraudulent Activities |
+| | Credit Card Transactions |
+| | Loan Granting |
+| **Recommendation Systems** | Song Challenge |
+| | Clustering Grocery Items |
+| **Data Processing & Optimization** | JSON City Similarities |
+| | URL Parsing Challenge |
+| | Optimization of Employee Shuttle Stops |
+| **Business Impact** | Diversity in the Workplace |
+| | Ads Analysis |
 
 ### Kaggle Projects
 
