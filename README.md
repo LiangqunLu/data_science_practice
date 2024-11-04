@@ -74,30 +74,30 @@
 
 ### Kaggle Projects
 
-| Level | Competition Name | Category | Key Skills | Description |
-|-------|-----------------|-----------|------------|-------------|
-| **Beginner** | [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) | Classification | Data cleaning, Feature engineering | Predict passenger survival |
-| | [House Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) | Regression | Feature engineering, Advanced regression | Predict house prices |
-| | [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer) | Computer Vision | CNN, Image processing | MNIST digit classification |
-| | [Disaster Tweets](https://www.kaggle.com/c/nlp-getting-started) | NLP | Text preprocessing, Text classification | Identify real disaster tweets |
-| | [Store Sales Forecasting](https://www.kaggle.com/c/store-sales-time-series-forecasting) | Time Series | Forecasting, Seasonal decomposition | Predict store sales |
-| **Intermediate** | [Credit Card Fraud](https://www.kaggle.com/mlg-ulb/creditcardfraud) | Classification | Imbalanced learning, Anomaly detection | Detect fraudulent transactions |
-| | [Santander Customer Satisfaction](https://www.kaggle.com/c/santander-customer-satisfaction) | Classification | Business metrics, Feature selection | Predict customer satisfaction |
-| | [Walmart Sales](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting) | Time Series | Multiple time series, Store analytics | Forecast sales across stores |
-| | [Heart Disease](https://www.kaggle.com/ronitf/heart-disease-uci) | Healthcare | Medical data, Binary classification | Predict heart disease |
-| | [NYC Taxi Fare](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction) | Regression | Geographic data, Feature creation | Predict taxi fares |
-| **Advanced** | [Google Brain Ventilator](https://www.kaggle.com/c/ventilator-pressure-prediction) | Healthcare | Time series, Medical devices | Predict ventilator pressure |
-| | [Deepfake Detection](https://www.kaggle.com/c/deepfake-detection-challenge) | Computer Vision | Video processing, Deep learning | Detect manipulated videos |
-| | [Protein Folding](https://www.kaggle.com/c/predicting-molecular-properties) | Bioinformatics | 3D prediction, Complex architectures | Predict protein structures |
-| | [Microsoft Malware](https://www.kaggle.com/c/microsoft-malware-prediction) | Cybersecurity | Large-scale data, Security | Detect malicious software |
-| **Specialized** | [H&M Recommendations](https://www.kaggle.com/c/h-and-m-personalized-fashion-recommendations) | RecSys | Personalization, Ranking | Fashion recommendations |
-| | [Quora Question Pairs](https://www.kaggle.com/c/quora-question-pairs) | NLP | Semantic similarity, Text matching | Identify duplicate questions |
-| | [Global Wheat Detection](https://www.kaggle.com/c/global-wheat-detection) | Computer Vision | Object detection, Agriculture | Detect wheat heads |
-| | [Bird Call Identification](https://www.kaggle.com/c/birdclef-2021) | Audio | Sound processing, Classification | Identify bird species |
-| | [Web Traffic Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting) | Time Series | Long-term patterns, Multiple series | Predict website traffic |
-| | [VinBigData X-ray](https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection) | Multi-Modal | Medical imaging, Object detection | Detect chest abnormalities |
-
-
+| Level | Competition Name | Category | Key Skills | Metrics | Description |
+|-------|-----------------|-----------|------------|----------|-------------|
+| **Beginner** | [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) | Classification | Data cleaning, Feature engineering | Accuracy | Predict passenger survival |
+| | [House Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) | Regression | Feature engineering, Advanced regression | RMSE | Predict house prices |
+| | [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer) | Computer Vision | CNN, Image processing | Accuracy | MNIST digit classification |
+| | [Disaster Tweets](https://www.kaggle.com/c/nlp-getting-started) | NLP | Text preprocessing, Text classification | F1 Score | Identify real disaster tweets |
+| | [Store Sales Forecasting](https://www.kaggle.com/c/store-sales-time-series-forecasting) | Time Series | Forecasting, Seasonal decomposition | RMSLE | Predict store sales |
+| **Intermediate** | [Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud) | Classification | Imbalanced learning, Anomaly detection | AUC-ROC | Detect fraudulent transactions |
+| | [Customer Churn Prediction](https://www.kaggle.com/blastchar/telco-customer-churn) | Classification | Customer analytics, Feature importance | F1 Score | Predict customer churn |
+| | [Sentiment Analysis](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews) | NLP | Text vectorization, Sentiment analysis | Accuracy | Movie review sentiment |
+| | [Dog Breed Classification](https://www.kaggle.com/c/dog-breed-identification) | Computer Vision | Transfer learning, CNN architectures | Multi-class Log Loss | Classify dog breeds |
+| | [Web Traffic Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting) | Time Series | Time series analysis, Deep learning | RMSE | Predict Wikipedia traffic |
+| **Advanced** | [Quora Question Pairs](https://www.kaggle.com/c/quora-question-pairs) | NLP | Text similarity, Siamese networks | Log Loss | Identify duplicate questions |
+| | [Airbus Ship Detection](https://www.kaggle.com/c/airbus-ship-detection) | Computer Vision | Object detection, Image segmentation | F2 Score | Detect ships in satellite images |
+| | [Zillow Home Value](https://www.kaggle.com/c/zillow-prize-1) | Regression | Advanced feature engineering, Stacking | MAE | Predict home values |
+| | [Porto Seguro Safe Driver](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction) | Classification | Risk modeling, Imbalanced data | Normalized Gini | Predict driver insurance risk |
+| | [Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales) | Time Series | Multiple store forecasting, Feature engineering | RMSPE | Predict drug store sales |
+| | [OTTO Recommender System](https://www.kaggle.com/competitions/otto-recommender-system) | Recommender Systems | Sequential recommendations, Multi-objective optimization | Recall@K | Predict next customer interactions |
+| **Specialized** | [RSNA Intracranial Hemorrhage](https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection) | Healthcare | Medical imaging, CNN | Weighted Log Loss | Detect brain hemorrhages |
+| | [Diabetic Retinopathy Detection](https://www.kaggle.com/c/diabetic-retinopathy-detection) | Healthcare | Medical imaging, CNN, Class imbalance | Quadratic Weighted Kappa | Grade diabetic retinopathy severity |
+| | [Google Brain - Ventilator Pressure](https://www.kaggle.com/c/ventilator-pressure-prediction) | Healthcare | Time series, Physiological data | MAE | Predict ventilator pressure |
+| | [Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction) | Finance | Financial modeling, Real-time ML | Utility Score | Market trading decisions |
+| | [NFL Big Data Bowl](https://www.kaggle.com/c/nfl-big-data-bowl-2020) | Sports | Player tracking, Game analytics | CRPS | Predict rushing yards |
+| | [Google AI4Code](https://www.kaggle.com/competitions/AI4Code) | Code Intelligence | Code understanding, Sequence modeling | Mean AP | Reorder code sequences |
 
 ## Resources
 
