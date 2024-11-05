@@ -86,6 +86,9 @@
 | | [Sentiment Analysis](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews) | NLP | Text vectorization, Sentiment analysis | Accuracy | Movie review sentiment |
 | | [Dog Breed Classification](https://www.kaggle.com/c/dog-breed-identification) | Computer Vision | Transfer learning, CNN architectures | Multi-class Log Loss | Classify dog breeds |
 | | [Web Traffic Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting) | Time Series | Time series analysis, Deep learning | RMSE | Predict Wikipedia traffic |
+| | [Click-Through Rate Prediction](https://www.kaggle.com/c/avazu-ctr-prediction) | Advertising | CTR prediction, Feature engineering | Log Loss | Predict ad click-through rates |
+| | [Display Advertising Challenge](https://www.kaggle.com/c/criteo-display-ad-challenge) | Advertising | Large-scale ML, Online advertising | AUC | Predict ad clicks |
+| | [Facebook Recruiting IV: Human or Robot?](https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot) | Advertising | Bot detection, Behavioral analysis | AUC | Identify automated bidding |
 | **Advanced** | [Quora Question Pairs](https://www.kaggle.com/c/quora-question-pairs) | NLP | Text similarity, Siamese networks | Log Loss | Identify duplicate questions |
 | | [Airbus Ship Detection](https://www.kaggle.com/c/airbus-ship-detection) | Computer Vision | Object detection, Image segmentation | F2 Score | Detect ships in satellite images |
 | | [Zillow Home Value](https://www.kaggle.com/c/zillow-prize-1) | Regression | Advanced feature engineering, Stacking | MAE | Predict home values |
